@@ -1,0 +1,3 @@
+digital_twin_msgs/Voltage voltages
+digital_twin_msgs/Current currents
+builtin_interfaces/Time stamp
