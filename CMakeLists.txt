@@ -24,6 +24,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
 	"msg/Power.msg"
 	"msg/AxesCurrents.msg"
   "msg/SupplyInput.msg"
+  "msg/Float32Stamped.msg"
+  DEPENDENCIES builtin_interfaces std_msgs
 )
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
