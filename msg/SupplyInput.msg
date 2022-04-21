@@ -1,0 +1,4 @@
+builtin_interfaces/Time stamp
+uint64 seq_id
+digital_twin_msgs/Voltage voltages
+digital_twin_msgs/Current currents

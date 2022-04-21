@@ -1,3 +1,3 @@
 builtin_interfaces/Time stamp
-uint8 id
+uint64 seq_id
 float32 data
