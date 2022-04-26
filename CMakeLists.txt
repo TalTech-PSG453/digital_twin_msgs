@@ -24,6 +24,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
 	"msg/AxesCurrents.msg"
 	"msg/Float32Stamped.msg"
 	"msg/SupplyInput.msg"
+	"msg/LatencyTest.msg"
     DEPENDENCIES builtin_interfaces
 )
 if(BUILD_TESTING)
