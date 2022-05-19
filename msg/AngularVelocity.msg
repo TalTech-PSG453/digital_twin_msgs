@@ -1,3 +1,3 @@
-std_msgs/Header header
+builtin_interfaces/Time stamp
 float32 right_velocity
 float32 left_velocity

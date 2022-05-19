@@ -1,3 +1,3 @@
-std_msgs/Header header
+builtin_interfaces/Time stamp
 float32 left_torque
 float32 right_torque
