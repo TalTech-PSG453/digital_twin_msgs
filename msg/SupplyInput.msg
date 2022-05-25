@@ -1,3 +1,3 @@
-builtin_interfaces/Time stamp
+std_msgs/Header header
 digital_twin_msgs/Voltage voltages
 digital_twin_msgs/Current currents
